@@ -1,6 +1,6 @@
 # Case-study #8-2
 # Developers:   Braer P. (%),
-#               Kokorina D. (%),
+#               Kokorina D. (30%),
 #               Novoselov V. (%)
 
 print("""Case-study Файловая система
@@ -68,4 +68,7 @@ def runCommand(command):
         return
     if command == 7:
         return
+
+
+
 
