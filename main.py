@@ -53,3 +53,19 @@ def countFiles(path):
     os.chdir(path)
     return countFiles_step(path)
 
+def runCommand(command):
+    if command == 1:
+        return
+    if command == 2:
+        return
+    if command == 3:
+        return
+    if command == 4:
+        return
+    if command == 5:
+        return
+    if command == 6:
+        return
+    if command == 7:
+        return
+
